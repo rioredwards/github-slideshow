@@ -2,5 +2,4 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Goat
-Use the left arrow to go back!
+![Goat](brown-goat.png)
