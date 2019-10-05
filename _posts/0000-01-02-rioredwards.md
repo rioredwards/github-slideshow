@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Noodlez
+Goat
 Use the left arrow to go back!
